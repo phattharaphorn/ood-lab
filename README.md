@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtaDRyOWp1c25sM2Q4c3E2eHF5ajVyd2g1MzJjNTBobHM4NnZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" alt="Lab gif"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdtaDRyOWp1c25sM2Q4c3E2eHF5ajVyd2g1MzJjNTBobHM4NnZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif"  width="30%" height="30%" alt="Lab gif"/>
 </p>
 
 # Object Oriented Data Structures - Lab
