@@ -11,35 +11,35 @@ Object Oriented Data Structures (01076109 ), Computer Engineering 60 at KMITL.
   > **Note:** This collection of various labs about object-oriented programming is implemented in Java for practical purposes.
 
 ## List all the lab - assignment 
-- [Lab 1 Python 1](lab-1)
+- [Lab 1 Python 1](lab-1-python-1)
   - Election
   - Yin-yang pattern
   - Radius and Area of circle
   - Return the odd number in the list
   - Have fun drawing
     
-- [Lab 1 Python 2](lab-2)
+- [Lab 1 Python 2](lab-1-python-2)
   - Roman numeral to integer
   - Spherical class
   - Calculator
   - Weird Subtract
   - TorKham
 
-- [Lab 2 Stack](lab-3)
+- [Lab 2 Stack](lab-2-stack)
   - Number in Stack
   - Convert decimal to binary
   - Postfix calculator
   - Into the Woods
   - Color Crush
  
-- [Lab 3 Queue](lab-4)
+- [Lab 3 Queue](lab-3-queue)
   - Get to know Queue
   - He calls me Eren
   - Canteen
   - Secrets Message
   - Bookstore
  
-- [Lab 4 LinkedList](lab-5)
+- [Lab 4 LinkedList](lab-4-linked-list)
   - Class Single LinkedList
   - Insert data into the specified index of the Singly LinkedList
   - Get to know Doubly LinkedList
@@ -47,35 +47,35 @@ Object Oriented Data Structures (01076109 ), Computer Engineering 60 at KMITL.
   - Merge LinkList
  
     
-- [Lab 5 Recursion](lab-6)
+- [Lab 5 Recursion](lab-5-recurion)
   - Factorial
   - Find the Max values
   - Palindrome
   - Hanoi
   - Staircase
 
-- [Lab 6 Binary Search tree](lab-7)
+- [Lab 6 Binary Search tree](lab-6-binary-search-tree)
   - Get to know Binary Search tree
   - Have fun with the Binary Search tree
   - Find the Min and Max values
   - Less Than or Equal
   - Find the Below value
  
-- [Lab 7 AVL Tree](lab-8)
+- [Lab 7 AVL Tree](lab-7-avl-tree)
   - ALV insert
   - Ranking
   - Binary Search tree or Not
   - Mondstadt
   - HuffmanTree
  
-- [Lab 8 Sorting](lab-9)
+- [Lab 8 Sorting](lab-8-sorting)
   - Sort by Alphabet
   - PremierLeague
   - Sort Subset
   - somryhing DROME
   - Straight selection Sort [recursive]
 
-- [Lab 9 Searching](lab-10)
+- [Lab 9 Searching](lab-8-sorting)
   - Practise using Binary search
   - First Greate value
   - Binary Search
