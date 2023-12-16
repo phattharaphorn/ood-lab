@@ -13,7 +13,7 @@ Object Oriented Data Structures (01076109), Computer Engineering 60 at KMITL.
 ## List all the lab - assignment 
 - [Lab 1 Python 1](lab-1-python-1)
   - Election
-  - Yin-yang pattern
+  - Yin-yang pattern 
   - Radius and Area of circle
   - Return the odd number in the list
   - Have fun drawing
