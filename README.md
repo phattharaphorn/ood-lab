@@ -5,7 +5,7 @@
 # Object Oriented Data Structures - Lab
 Object Oriented Data Structures (01076109), Computer Engineering 60 at KMITL.
 
-- This repository is a collection developed of **data** **structures** in **stacks**, **queues**, **linked** **lists**, **trees**,**sorting**, and **searching** etc.
+- This repository is a collection developed of **Data** **Structures** about **Stacks**, **Queues**, **Linked** **Lists**, **Trees**, **Sorting**, **Searching** etc.
 
 ## List all the lab - assignment 
 - [Lab 1 Python 1](lab-1-python-1)
